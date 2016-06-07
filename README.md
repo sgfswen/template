@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // react 相关
 $ cd project
 $ npm install react react-dom --save
@@ -12,3 +13,7 @@ $ npm install gulpjs/gulp.git#4.0 --save-dev
 $ npm install gulp gulp-util del gulp-rename gulp-less gulp-connect connect-rest@1.9.5  --save-dev
 
 https://zhuanlan.zhihu.com/p/21312474?refer=leanreact
+=======
+# template
+webpack + react + es6 + gulp
+>>>>>>> 8fe13250e63b0a55436e02b6541460603895b82d
